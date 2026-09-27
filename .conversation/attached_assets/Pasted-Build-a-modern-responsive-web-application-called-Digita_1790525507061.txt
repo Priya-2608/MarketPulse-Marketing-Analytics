@@ -1,0 +1,276 @@
+Build a modern, responsive web application called:
+
+“Digital Marketing Campaign Management and Analytics System”
+
+Create it as a polished prototype for a college internship project. The application should look realistic and professional, not like a simple demo dashboard.
+
+CORE IDEA:
+The system helps a business create, manage and monitor digital marketing campaigns across multiple platforms. It provides campaign analytics, audience information, content performance, SEO metrics and easy-to-understand marketing insights.
+
+DESIGN:
+
+* Modern professional SaaS dashboard
+* Clean UI with dark and light mode
+* Responsive design for desktop, tablet and mobile
+* Use cards, charts, tables, badges and progress indicators
+* Smooth hover effects and subtle animations
+* Sidebar navigation with icons
+* Professional typography
+* Use a consistent modern color palette
+* Avoid excessive gradients and unnecessary animations
+
+PAGES / MODULES:
+
+1. LOGIN PAGE
+   Create a simple professional login screen.
+   Fields:
+
+* Email
+* Password
+* Remember Me
+* Login button
+
+For prototype purposes, allow demo login without backend authentication.
+
+2. DASHBOARD
+   Show:
+
+* Total Campaigns
+* Active Campaigns
+* Total Reach
+* Engagement Rate
+* Click Through Rate
+* Conversions
+* Campaign Health Score
+
+Add:
+
+* Campaign performance line chart
+* Platform-wise performance chart
+* Recent campaigns table
+* Top performing content section
+* “Marketing Insights” card
+
+Example insight:
+“Instagram engagement increased by 18% compared with the previous campaign.”
+
+3. CAMPAIGN MANAGEMENT
+   Allow users to:
+
+* Create campaign
+* Edit campaign
+* Delete campaign
+* View campaign details
+* Filter campaigns by status
+
+Campaign fields:
+
+* Campaign Name
+* Objective
+* Target Audience
+* Platform
+* Start Date
+* End Date
+* Budget
+* Status
+
+Statuses:
+
+* Draft
+* Scheduled
+* Active
+* Completed
+
+4. CREATE CAMPAIGN
+   Create a multi-section form:
+   Campaign Details
+   Target Audience
+   Platform Selection
+   Budget
+   Schedule
+   Campaign Objective
+
+Objectives:
+
+* Brand Awareness
+* Lead Generation
+* Website Traffic
+* Engagement
+* Conversions
+
+After submission, display the campaign in the campaign list.
+
+5. CAMPAIGN ANALYTICS
+   Create a detailed analytics page for each campaign.
+
+Show:
+
+* Impressions
+* Reach
+* Clicks
+* Engagement
+* Conversions
+* CTR
+* Conversion Rate
+* Cost Per Click
+* Cost Per Conversion
+
+Include:
+
+* Performance trend chart
+* Platform comparison
+* Daily performance
+* Engagement breakdown
+
+6. CAMPAIGN HEALTH SCORE
+   Create a unique visual component called “Campaign Health Score”.
+
+Calculate a prototype score using:
+
+* Engagement
+* CTR
+* Conversion rate
+* Reach
+* Budget efficiency
+
+Display:
+Excellent / Good / Needs Attention
+
+Also show the factors affecting the score.
+
+7. AUDIENCE INSIGHTS
+   Show audience information using charts:
+
+* Age groups
+* Location
+* Device type
+* Interests
+* Engagement behavior
+
+Create sample data for demonstration.
+
+8. CONTENT PERFORMANCE
+   Display marketing posts/content as cards.
+
+Each content card should show:
+
+* Content title
+* Platform
+* Reach
+* Likes
+* Comments
+* Shares
+* Clicks
+* Engagement rate
+
+Add a “Top Performer” badge for high-performing content.
+
+9. SEO ANALYTICS
+   Create an SEO page with:
+
+* Organic Traffic
+* Keywords
+* Search Ranking
+* Click Through Rate
+* Backlinks
+* SEO Health
+
+Create a keyword table:
+Keyword | Position | Search Volume | Trend
+
+Use realistic sample data.
+
+10. CAMPAIGN CALENDAR
+    Create a calendar interface showing:
+
+* Scheduled campaigns
+* Content publishing dates
+* Campaign start/end dates
+
+Use different status indicators.
+
+11. MARKETING INSIGHTS
+    Create an “AI-style Marketing Insights” section.
+
+IMPORTANT:
+This is only a prototype. Do not connect to a real AI API.
+
+Generate rule-based insights from the sample analytics data.
+
+Examples:
+
+* “Engagement is higher on Instagram than Facebook.”
+* “CTR is below the campaign target.”
+* “Video content is generating higher engagement.”
+* “The campaign is performing efficiently within the current budget.”
+
+12. REPORT PAGE
+    Create a campaign summary report containing:
+
+* Campaign overview
+* Key metrics
+* Audience summary
+* Platform performance
+* Content performance
+* SEO summary
+* Campaign Health Score
+* Marketing Insights
+
+Add buttons:
+“Print Report”
+“Download Report”
+
+For the prototype, the report can use browser print functionality.
+
+DATA:
+Use realistic sample data instead of empty charts.
+
+Create at least:
+
+* 6 campaigns
+* 10 content posts
+* 8 keywords
+* Multiple audience segments
+
+FUNCTIONALITY:
+
+* Navigation between all pages must work
+* Campaign creation should update the campaign list
+* Search and filtering should work
+* Charts should display sample data
+* Theme toggle should work
+* Forms should have validation
+* Use localStorage for prototype data persistence
+* No real payment system
+* No real social media API
+* No real authentication backend
+
+TECH STACK:
+Use:
+
+* HTML5
+* CSS3
+* JavaScript
+* Chart.js for charts
+* LocalStorage for prototype persistence
+
+IMPORTANT UI REQUIREMENTS:
+Make the application look like a real digital marketing SaaS product.
+
+The dashboard should be visually impressive enough for:
+
+* Internship demonstration
+* College project presentation
+* Internship report screenshots
+
+Add realistic empty states, loading states, success messages and confirmation dialogs where appropriate.
+
+Do not use fake external company branding. Use the project name as the application branding.
+
+Application name:
+“MarketPulse”
+
+Subtitle:
+“Digital Marketing Campaign Management & Analytics”
+
+Create the complete working prototype with all pages connected through the sidebar navigation.
